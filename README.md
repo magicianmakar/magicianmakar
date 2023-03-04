@@ -1,4 +1,4 @@
-### Hi there. I am WordPress Expert👋
+### Hi there. I am a Senior Java Developer👋
 -10+years of experience in ecommerce product/web development including Analysis , development , design , testing , implementation and maintenance support in Java/J2EE technologies. 
 
 -Strong experience in designing developing software systems using Java , J2EE technologies like Servlets , JSPs , Spring Framework ,  XML , XSD , SOAP , WSDL , HTML , CSS , JavaScript , AJAX , Hibernate , JDBC with Oracle and MySQL , relational databases. 
